@@ -68,12 +68,6 @@ export default function GallerySection() {
             />
             <div className="absolute inset-0 bg-dark-900/20 group-hover:bg-dark-900/5 transition-all duration-500" />
 
-            {/* Label on hover */}
-            <div className="absolute bottom-0 inset-x-0 translate-y-full group-hover:translate-y-0 transition-transform duration-500">
-              <div className="p-5 bg-gradient-to-t from-dark-900/90 to-transparent pt-12">
-                <p className="text-white text-sm font-medium">{photo.alt}</p>
-              </div>
-            </div>
 
             {/* Index number */}
             <div className="absolute top-4 left-4">

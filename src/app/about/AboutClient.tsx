@@ -46,7 +46,7 @@ export default function AboutClient() {
       <section ref={heroRef} className="relative h-[70vh] md:h-[80vh] overflow-hidden flex items-end">
         <motion.div className="absolute inset-0" style={{ y: heroImgY }}>
           <Image
-            src="/images/ritual-stage.jpg"
+            src="/images/55.jpg"
             alt="김미애 만신 굿 공연"
             fill
             className="object-cover scale-110"
@@ -148,7 +148,7 @@ export default function AboutClient() {
                 className="mt-6 relative aspect-[16/10] rounded-2xl overflow-hidden"
               >
                 <Image
-                  src="/images/award.jpg"
+                  src="/images/66.jpg"
                   alt="국가무형문화유산 서울새남굿 행사"
                   fill
                   className="object-cover"
@@ -191,20 +191,23 @@ export default function AboutClient() {
                 className="space-y-5 text-gray-300 text-base md:text-lg leading-relaxed mb-16"
               >
                 <p>
-                  어린 시절부터 남다른 영적 감각을 가지고 있었으며,
-                  이를 바탕으로 사주팔자와 신점을 깊이 연구하며
-                  <span className="text-gray-300"> 40년 이상의 경력</span>을 쌓아왔습니다.
+                  인왕산 신당 김미애 만신입니다.
                 </p>
                 <p>
-                  단순히 운명을 이야기하는 것이 아니라,
-                  내담자의 상황을 깊이 공감하고
-                  <span className="text-gray-300"> 실질적인 방향을 제시</span>하는 것이
-                  저의 상담 철학입니다.
+                  저는 유년시절 아홉 살에 말문이 터지고, 열세 살에 신내림을 받아 40여 년 세월을 신령님 몸주로 살아왔습니다.
+                  큰 만신이 되기 위해 오랜 시간 기도와 공부에 전념해 왔으며, 35세에 국가무형문화재 서울새남굿 제104호 전수장학생이 되었고, 38세에는 단독으로 이수자 시험에 합격하여 현재는 이사로 임명받아 활동하고 있습니다.
                 </p>
                 <p>
-                  사업, 취업, 연애, 결혼, 건강, 이사 등
-                  삶의 모든 영역에서 고민이 있으시다면
-                  편하게 찾아와 주세요.
+                  오랜 세월 한길을 운명이라 여기며 걸어오면서, 저는 늘 양심과 신뢰, 그리고 명예를 가장 중요하게 생각해왔습니다.
+                  저 역시 인생을 살면서 수많은 우여곡절을 겪어왔지만, 부족하나마 늘 정성과 기도, 그리고 선한 마음으로 하나씩 이겨내고자 노력해왔습니다. 지금 이 자리까지 올 수 있었던 것은 모두 신령님의 뜻과 보살핌 덕분이라 생각하며, 그저 감사한 마음으로 하루하루를 살아가고 있습니다.
+                </p>
+                <p>
+                  어린 시절부터 남다른 영적 감각을 지니고 있었던 저는 이를 바탕으로 사주팔자와 신점을 깊이 연구해왔고, 오랜 경험과 수많은 상담을 통해 내담자 한 분 한 분의 삶을 더욱 깊이 들여다보게 되었습니다.
+                  저는 단순히 운세만을 이야기하는 것이 아니라, 내담자의 상황과 마음을 깊이 공감하고 그 안에서 실질적인 방향을 제시하는 것을 가장 중요하게 생각합니다.
+                </p>
+                <p>
+                  사업, 취업, 연애, 결혼, 건강, 이사 등 삶을 살아가며 누구나 한 번쯤은 막막하고 답답한 순간을 마주하게 됩니다. 그럴 때 혼자 끌어안고 고민하기보다, 편안한 마음으로 찾아와 이야기를 나누셨으면 합니다.
+                  저의 오랜 경험과 지식, 그리고 신령님의 뜻을 바탕으로 인연 닿는 분들께 길흉화복을 점쳐드리고, 앞으로 나아갈 길에 작은 빛이 되어드리고 싶습니다.
                 </p>
               </motion.div>
 
@@ -219,7 +222,7 @@ export default function AboutClient() {
                 <p className="text-xl md:text-2xl text-white font-medium leading-relaxed" style={{ fontFamily: 'var(--font-serif)' }}>
                   &ldquo;좋은 상담은 단순한 예측이 아니라,
                   <br />
-                  내담자가 스스로 길을 찾을 수 있도록 돕는 것입니다.&rdquo;
+                  내담자가 스스로 자신의 길을 찾을 수 있도록 돕는 것이라 믿습니다.&rdquo;
                 </p>
                 <p className="text-gold/70 text-sm mt-4">— 김미애 만신</p>
               </motion.div>
@@ -355,10 +358,14 @@ export default function AboutClient() {
 
         <div className="relative z-10 grid grid-cols-2 md:grid-cols-4 gap-3 md:gap-4 max-w-7xl mx-auto px-6 md:px-12">
           {[
-            { src: '/images/ritual-crown.jpg', alt: '전통 관복 공연', tall: true },
+            { src: '/images/22.jpg', alt: '활동 모습', tall: true },
+            { src: '/images/33.jpg', alt: '활동 모습', tall: false },
+            { src: '/images/44.jpg', alt: '활동 모습', tall: false },
+            { src: '/images/77.jpg', alt: '활동 모습', tall: true },
+            { src: '/images/ritual-crown.jpg', alt: '전통 관복 공연', tall: false },
             { src: '/images/ocean-prayer.jpg', alt: '해변 기도', tall: false },
             { src: '/images/shrine.jpg', alt: '신당 제단', tall: false },
-            { src: '/images/entrance.jpg', alt: '국가무형문화재', tall: true },
+            { src: '/images/entrance.jpg', alt: '국가무형문화재', tall: false },
             { src: '/images/drum-ritual.jpg', alt: '장구 연주', tall: false },
             { src: '/images/ritual-yellow.jpg', alt: '굿 의식', tall: false },
           ].map((photo, index) => (
@@ -372,9 +379,6 @@ export default function AboutClient() {
             >
               <Image src={photo.src} alt={photo.alt} fill className="object-cover transition-transform duration-700 group-hover:scale-105" />
               <div className="absolute inset-0 bg-dark-900/20 group-hover:bg-dark-900/5 transition-all duration-500" />
-              <div className="absolute bottom-0 inset-x-0 p-4 bg-gradient-to-t from-dark-900/80 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500">
-                <p className="text-white text-sm">{photo.alt}</p>
-              </div>
             </motion.div>
           ))}
         </div>
