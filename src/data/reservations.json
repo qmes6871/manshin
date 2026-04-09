@@ -1,0 +1,17 @@
+[
+  {
+    "id": "res_1775463495551_5odu5z",
+    "name": "테스트",
+    "phone": "01012345678",
+    "gender": "여성",
+    "birthDate": "2026-04-21",
+    "birthTime": "모름",
+    "calendarType": "양력",
+    "serviceType": "사주상담",
+    "consultMethod": "전화상담",
+    "preferredDate": "2026-04-08",
+    "preferredTime": "오전 (09:00-12:00)",
+    "message": "테스트",
+    "createdAt": "2026-04-06T08:18:15.551Z"
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "date": "2026-04-06",
+    "page": "/",
+    "count": 19
+  },
+  {
+    "date": "2026-04-06",
+    "page": "/reservation",
+    "count": 10
+  },
+  {
+    "date": "2026-04-06",
+    "page": "/services",
+    "count": 9
+  },
+  {
+    "date": "2026-04-06",
+    "page": "/about",
+    "count": 6
+  },
+  {
+    "date": "2026-04-06",
+    "page": "/contact",
+    "count": 5
+  },
+  {
+    "date": "2026-04-07",
+    "page": "/",
+    "count": 8
+  },
+  {
+    "date": "2026-04-07",
+    "page": "/about",
+    "count": 4
+  },
+  {
+    "date": "2026-04-07",
+    "page": "/services",
+    "count": 3
+  },
+  {
+    "date": "2026-04-07",
+    "page": "/reservation",
+    "count": 2
+  },
+  {
+    "date": "2026-04-07",
+    "page": "/contact",
+    "count": 1
+  },
+  {
+    "date": "2026-04-08",
+    "page": "/",
+    "count": 6
+  },
+  {
+    "date": "2026-04-08",
+    "page": "/services",
+    "count": 4
+  },
+  {
+    "date": "2026-04-08",
+    "page": "/about",
+    "count": 3
+  },
+  {
+    "date": "2026-04-08",
+    "page": "/reservation",
+    "count": 2
+  },
+  {
+    "date": "2026-04-09",
+    "page": "/",
+    "count": 8
+  },
+  {
+    "date": "2026-04-09",
+    "page": "/services",
+    "count": 2
+  },
+  {
+    "date": "2026-04-09",
+    "page": "/reservation",
+    "count": 2
+  }
+]
